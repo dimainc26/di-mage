@@ -4,7 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index",
+    "server": "We start Dima",
     "start": "node index"
   },
   "keywords": [],
